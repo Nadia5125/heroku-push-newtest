@@ -4,6 +4,6 @@
 Work on MongoDB
 
 # Direct to the link 
-and please post something on the webpage 
+Please post something on the webpage 
 
 Link: https://heroku-push-newtest.herokuapp.com/
